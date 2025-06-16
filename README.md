@@ -1,4 +1,14 @@
 # Tic-Tac-Toe-Game
-This is a basic tic tac toe project made by using HTML , CSS and JS.
-Added one landing page to make it look attractive.
-Run the mainlanding.html page first.
+**Tic Tac Toe Game is a simple and fun browser-based project built using HTML, CSS, and JavaScript.**
+The game features a clean landing page, smooth turn-wise gameplay, and a colorful responsive interface.
+
+🔹 **Features:**
+
+Turn-by-turn player interaction
+Easy to understand and play
+Simple and attractive design
+Works smoothly on desktop and mobile browsers
+
+**This project helped me strengthen my JavaScript fundamentals and DOM manipulation skills.
+It’s a perfect beginner-friendly game project with real functionality.**
+
